@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H2eJ4ZdEF8TX3PIVSAIPyWdVnw/+Fx/H9gCX5Ut53dQ=",
+  "Source": "SalesInvoiceProcess",
+  "BasePath": "_content/SalesInvoiceProcess",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
